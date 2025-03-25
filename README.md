@@ -18,24 +18,6 @@ EnchantedJewels is an e-commerce web application built using **React** and **Vit
 - **Routing**: React Router
 - **Backend**: 
 
-## 📂 Project Structure
-```
-/src
-  /components
-    - Navbar.jsx
-    - ProductList.jsx
-    - ProductCard.jsx
-  /pages
-    - Home.jsx
-    - Products.jsx
-    - Login.jsx
-  /styles
-    - styles.css
-  /api
-    - api.js (for future API calls)
-  App.jsx
-  main.jsx
-```
 
 ## 🏃 Getting Started
 ### 1️⃣ Clone the Repository
