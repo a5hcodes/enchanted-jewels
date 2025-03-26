@@ -9,6 +9,8 @@ const products = [
     { id: 8, name: 'Pearl Earrings', price: '$1800', image: 'src/imgs/nec2.jpeg' },
     { id: 9, name: 'Gold Necklace', price: '$2500', image: 'src/imgs/nec3.jpeg' },
     { id: 10, name: 'Heart Chain', price: '$1200', image: 'src/imgs/nec4.jpeg' },
+    { id: 11, name: 'Silver Bracelet', price: '$800', image: 'src/imgs/nec5.jpeg' },
+    { id: 12, name: 'Platinum Earrings', price: '$1800', image: 'src/imgs/nec6.jpeg' }
   ];
 
   export default products;
